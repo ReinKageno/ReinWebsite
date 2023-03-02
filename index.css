@@ -1,0 +1,20 @@
+a {
+    font-family: 'Fredoka One', cursive;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+
+.size-1 {
+    font-size: 16px;
+}
+
+.size-2 {
+    font-size: 24px;
+}
+
+.size-3 {
+    font-size: 32px;
+}
